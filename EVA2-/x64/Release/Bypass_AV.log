@@ -1,0 +1,12 @@
+﻿  EVA.cpp
+C:\Users\USER\OneDrive\Desktop\EVA2\EVA.cpp(23,23): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+C:\Users\USER\OneDrive\Desktop\EVA2\EVA.cpp(56,15): warning C4101: 'StartOfBuffer': unreferenced local variable
+  find-PID.cpp
+  kernelmode_antidbg.cpp
+  syscalls.c
+  Generating code
+  31 of 33 functions (93.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bypass_AV.vcxproj -> C:\Users\USER\OneDrive\Desktop\EVA2\x64\Release\Bypass_AV.exe
