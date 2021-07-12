@@ -1,7 +1,7 @@
 # EVA2
 ## _Another version of EVA using anti-debugging techs &amp;&amp; using Syscalls_
 
-# `First thing:` Dont Upload to virus total. this note is for you and not for me. if you wanna keep this code effective, and u want to use it to bypass windows defender, `DONT UPLOAD IT TO VIRUS` TOTAL OR ANY OTHER WEBSITE LIKE IT, else read the note at line 11 in EVA1
+# `First thing:` Dont Upload to virus total. this note is for you and not for me. if you wanna keep this code effective, and u want to use it to bypass windows defender, `DONT UPLOAD IT TO VIRUS TOTAL` OR ANY OTHER WEBSITE LIKE IT, else read the note at line 11 in EVA1
 
 # REQUIREMENTS:
 * visual studio 2019 [ it may work with visual studio 2017 ]
