@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/66519611/125239345-350d6c80-e2f1-11eb-
 *****************************************************************************************************************************************
 
 # special thanks for:
-*  My friend [@NoOne-hub](https://github.com/NoOne-hub) for the syscalls 
+*  My friend [@NoOne-hub](https://github.com/NoOne-hub) for helping me in adding the syscalls  
 *  [@mhaskar](https://github.com/mhaskar) for [Shellcode-In-Memory-Decoder](https://github.com/mhaskar/Shellcode-In-Memory-Decoder) in which i implemented the whole code on it... in this repo and in the first one. 
 *  [@hasherezade](https://github.com/hasherezade) for [antianalysis_demos](https://github.com/hasherezade/antianalysis_demos)
 *  [@jthuraisamy](https://github.com/jthuraisamy) for [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)
