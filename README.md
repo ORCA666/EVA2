@@ -13,11 +13,11 @@
 *****************************************************************************************************************************************
 
 # USAGE:
-* load this profile : [googledrive_getonly.profile](https://github.com/ORCA666/EVA2/blob/main/googledrive_getonly.profile) in cobaltstrike 
-* create your shellcode (x64 `x86 wont work`) using cobalt-strike [check my cobalt-wipe repo]
-* place your shellcode inside [encoder.py](https://github.com/ORCA666/EVA2/blob/main/encoder.py) and run it using `python2`
+* load this profile : [googledrive_getonly.profile](https://github.com/ORCA666/EVA2/blob/main/googledrive_getonly.profile) in cobaltstrike : `./teamserver <lhost> <pass> <path to googledrive_getonly.profile>`
+* create your shellcode [use https] (x64 `x86 wont work`) using cobalt-strike [check my cobalt-wipe repo]
+* place your shellcode inside [encoder.py](https://github.com/ORCA666/EVA2/blob/main/encoder.py) [preferably change the keys] and run it using `python2`
 * after [encoder.py](https://github.com/ORCA666/EVA2/blob/main/encoder.py) output your encrypted shellcode copy and paste it inside [EVA.cpp](https://github.com/ORCA666/EVA2/blob/main/EVA2-/EVA.cpp)
-* if u want to inject to another process uncomment [line 45](https://github.com/ORCA666/EVA2/blob/2fa4662f03645af1ab3d5ae5248896749c28f64e/EVA2-/EVA.cpp#L45)
+* if u want to inject to another process uncomment [line 45](https://github.com/ORCA666/EVA2/blob/2fa4662f03645af1ab3d5ae5248896749c28f64e/EVA2-/EVA.cpp#L45) `not recommended tho`
 * build the code using visual studio 2019 - Release - x64 `x86 wont work`
 * enjoy
 
