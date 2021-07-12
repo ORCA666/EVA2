@@ -25,11 +25,11 @@
 *****************************************************************************************************************************************
 
 # Features:
-* ## New Profile for the connection of the C&C of cobalt strike, the profile is from [here](https://github.com/rsmudge/Malleable-C2-Profiles/blob/master/normal/googledrive_getonly.profile)
-* ## anti debugging tech
-* ## encoded shellcode
-* ## decryption & injection of the shellode happens in the memory [byte by byte] and thus, less chance to get detected
-* ## using syscalls    
+* New Profile for the connection of the C&C of cobalt strike, the profile is from [here](https://github.com/rsmudge/Malleable-C2-Profiles/blob/master/normal/googledrive_getonly.profile)
+* anti debugging tech
+* encoded shellcode
+* decryption & injection of the shellode happens in the memory [byte by byte] and thus, less chance to get detected
+*  using syscalls    
 
 *****************************************************************************************************************************************
 
