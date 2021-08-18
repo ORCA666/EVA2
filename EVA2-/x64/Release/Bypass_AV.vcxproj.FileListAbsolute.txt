@@ -1,3 +1,0 @@
-C:\Users\USER\source\repos\Bypass_AV\x64\Release\Bypass_AV.exe
-C:\Users\USER\OneDrive\Desktop\Sys2\x64\Release\Bypass_AV.exe
-C:\Users\USER\OneDrive\Desktop\EVA2\x64\Release\Bypass_AV.exe

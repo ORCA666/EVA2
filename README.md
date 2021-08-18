@@ -7,9 +7,9 @@
 *****************************************************************************************************************************************
 
 # REQUIREMENTS:
-* visual studio 2019 [ it may work with visual studio 2017 ]
-* cobalt strike [ take a look at my repo `cobalt-wipe` ]
-* python2 for the encoder
+* Visual Studio 2019 [ it may work with visual studio 2017 ]
+* Cobalt Strike [ take a look at my repo `cobalt-wipe` ]
+* Python for the encoder
 
 *****************************************************************************************************************************************
 
